@@ -28,5 +28,4 @@
 
 在Amazon S3  控制台创建一个存储桶，该存储桶用于存储经过训练的强化学习模型和模拟日志。为存储桶命名为“turtlebot-with-robomaker-176979737281”，其他配置保留默认。
 
-![image-20220509035149903](/Users/shihz/Desktop/ROS/turtlebot3 with robomaker/image-20220509035149903.png)
-
+![image-20220509035149903](./turtlebot3_images/image-20220509035149903.png)
